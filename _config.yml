@@ -1,3 +1,7 @@
-title: "Hammad Cyber Blog"
-description: "Ethical Hacking | Cyber Security | Pentesting"
-theme: minimal-mistakes-jekyll
+main:
+  - title: "Home"
+    url: /
+  - title: "Blog"
+    url: /posts/
+  - title: "About"
+    url: /about/
