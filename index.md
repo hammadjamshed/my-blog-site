@@ -2,14 +2,19 @@
 title: Home
 ---
 
-# 🚀 Welcome to My Cyber Security Blog
+# 🛡️ Welcome to My Cyber Security World
 
-Hi 👋 I am an Ethical Hacker & Cyber Security Learner.
+I am **Ethical Hacker & Cyber Security Student**
 
-Here I share:
-- Hacking Tutorials
-- Linux Commands
-- Cyber Security Tips
-- Project Writeups
+---
 
-Stay tuned 🔥
+## 🚀 What I do:
+- Penetration Testing
+- Network Security
+- Linux & Kali Linux
+- Web Application Security
+
+---
+
+## 📚 Latest Work
+Check my latest blog posts below 👇
