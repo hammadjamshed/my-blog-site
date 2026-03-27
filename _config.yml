@@ -1,1 +1,3 @@
-theme: minima
+title: "Hammad Cyber Blog"
+description: "Ethical Hacking | Cyber Security | Pentesting"
+theme: minimal-mistakes-jekyll
